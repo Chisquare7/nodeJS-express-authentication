@@ -1,0 +1,20 @@
+[
+	{
+		"consumerName": "Chibuike",
+		"password": "chibyk247",
+		"apiKey": "Chibuike_chibyk247",
+		"roleType": "admin"
+	},
+	{
+		"consumerName": "Olayinka",
+		"password": "olams455",
+		"apiKey": "Olayinka_olams455",
+		"roleType": "user"
+	},
+	{
+		"consumerName": "Rachael",
+		"password": "rachy778",
+		"apiKey": "Rachael_rachy778",
+		"roleType": "user"
+	}
+]
